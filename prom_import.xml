@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<yml_catalog date="2023-10-30 23-50">
+    <shop>
+        <categories>
+            <category id="566" parentId="None">Тримачі рушників</category>
+            <category id="386" parentId="None">Дзеркала для ванних кімнат</category>
+            <category id="573" parentId="None">Кришки для унітазів</category>
+            <category id="541" parentId="None">Рушникосушки</category>
+            <category id="535" parentId="None">Біде</category>
+            <category id="566" parentId="None">Тримачі для паперу</category>
+            <category id="490" parentId="None">ВАННИ</category>
+            <category id="508" parentId="None">Душові піддони</category>
+            <category id="564" parentId="None">Стакани для ванної кімнати</category>
+            <category id="495" parentId="None">Панелі для ванн</category>
+            <category id="579" parentId="None">Засоби для догляду за сантехнікою</category>
+            <category id="523" parentId="None">ЗМІШУВАЧІ</category>
+            <category id="518" parentId="None">Лійка для душу</category>
+            <category id="555" parentId="None">Відра для сміття</category>
+            <category id="576" parentId="None">Пісуари</category>
+            <category id="581" parentId="None">Аксесуари</category>
+            <category id="553" parentId="None">Аксесуари для ванних кімнат</category>
+            <category id="562" parentId="None">Полиці у ванну</category>
+            <category id="577" parentId="None">Тумби під раковину</category>
+            <category id="583" parentId="None">Інше</category>
+            <category id="584" parentId="None">Донні клапани</category>
+            <category id="559" parentId="None">Йоржики та стійки</category>
+            <category id="548" parentId="None">Сифони для душових піддонів</category>
+            <category id="560" parentId="None">Мильниці</category>
+            <category id="506" parentId="None">Душові кабіни</category>
+            <category id="531" parentId="None">Комплектуючі для змішувачів</category>
+            <category id="520" parentId="None">Лійка для душу+шланг+кріплення</category>
+            <category id="519" parentId="None">Шланги для душу</category>
+            <category id="553" parentId="None">Аксесуари для макіяжу</category>
+            <category id="534" parentId="None">Унітази, бачки</category>
+            <category id="578" parentId="None">Інше</category>
+            <category id="539" parentId="None">ТРАПИ</category>
+            <category id="574" parentId="None">Шафи і пенали для ванних кімнат</category>
+            <category id="547" parentId="None">Сифони для раковин</category>
+            <category id="507" parentId="None">Душові двері та перегородки</category>
+            <category id="480" parentId="None">Умивальники і п'єдестали</category>
+            <category id="582" parentId="None">Інсталяційні системи</category>
+            <category id="558" parentId="None">Дозатори для мила</category>
+        </categories>
+        <offers>
+            <offer id="1013872" available="true">
+                <price>56.47</price>
+                <name>LOTTA змішувач для кухні, високий ніс, сатин, 35 мм</name>
+                <categoryId>523</categoryId>
+                <description>Однорычажный смеситель для кухни, высокий нос, сатин, 35 мм; керамический узел смешивания,
+                    расход воды до 7 л/мин, аэратор, подходит для проточных нагревателей
+                    Модель установленного картриджа Sedal EN- 35 S/D AZ
+                </description>
+                <param name="Комплектация">Нет</param>
+                <param name="Монтаж">врезной</param>
+                <param name="Тип управления">однорычажный</param>
+                <param name="Особенности">Нет</param>
+                <param name="Основной цвет/тип покрытия">хром</param>
+                <param name="Тип излива">Г-образный</param>
+                <param name="Выдвижной излив">Нет</param>
+                <param name="Вывод для фильтрованной воды">нет</param>
+                <param name="Длина излива" unit="мм">194</param>
+                <param name="Высота излива" unit="мм">252</param>
+                <param name="Высота смесителя" unit="мм">290</param>
+                <param name="Цвет изделия">Сатин</param>
+                <param name="Основной материал изделия">латунь</param>
+                <param name="Материал упаковки">картон</param>
+                <param name="Гарантия" unit="мес.">60</param>
+                <param name="Модель картриджа">Sedal E-35 AZ SD</param>
+                <param name="Диаметр подсоединения шлангов">G1/2</param>
+                <param name="Комплект поставки">смеситель для кухни</param>
+                <param name="Страна регистрации бренда">Чехия</param>
+                <param name="Диаметр картриджа" unit="мм">35</param>
+                <param name="Описание">IMPRESE Аквам</param>
+                <param name="Акция">Лови момент</param>
+                <param name="Бренд">IMPRESE</param>
+                <param name="Серия">LOTTA</param>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/90d21e520981f95c8266e3924802b1ba341190be1af656a2ba06c546c35e2f1c0.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/ca490c7fee3e0e87afbefd091bb8fbf973549e3d371f08cf7459ee33f83869b91.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/50cde092c6801a7a8bc8cb0896be4122a41d2d7d57a8eea56809b7b3e09f7db92.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/9327f502fe5d3d7c6512defad803a9beb286c0ac55e776012801cbbd8da5a6543.jpg
+                </picture>
+            </offer>
+            <offer id="1013890" available="true">
+                <price>43.0</price>
+                <name>RALSKO змішувач для біде, хром</name>
+                <categoryId>523</categoryId>
+                <description>RALSKO смеситель для биде, хром, 1,2&amp;amp;apos;Крестовые рукоятки, керамический узел
+                    смешивания, расход воды до 7 л/мин, аэратор, подходит для проточных нагревателей
+                </description>
+                <param name="Монтаж">врезной</param>
+                <param name="Тип управления">двухвентильный</param>
+                <param name="Основной цвет/тип покрытия">хром</param>
+                <param name="Длина излива" unit="мм">0</param>
+                <param name="Высота излива" unit="мм">101</param>
+                <param name="Высота смесителя" unit="мм">140</param>
+                <param name="Цвет изделия">Хром</param>
+                <param name="Наличие донного клапана">Нет</param>
+                <param name="Кол-во отверстий">1</param>
+                <param name="Основной материал изделия">латунь</param>
+                <param name="Материал упаковки">картон</param>
+                <param name="Гарантия" unit="мес.">60</param>
+                <param name="Диаметр подсоединения шлангов">G1/2</param>
+                <param name="Комплект поставки">смеситель для биде</param>
+                <param name="Страна регистрации бренда">Чехия</param>
+                <param name="Описание">IMPRESE Аквам</param>
+                <param name="Бренд">IMPRESE</param>
+                <param name="Серия">RALSKO</param>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/6607940905ef9fe7071189814d4a3dc4be37af8c51ee68848d4e5fa4c416004a0.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/121f7d9f2c14220c2b75b34fd21e4e6aa7d7832fe984ebaa0d6a312065a4cf711.jpg
+                </picture>
+            </offer>
+            <offer id="1026588" available="true">
+                <price>9.64</price>
+                <name>Душ ручний 100 мм, 1 режим</name>
+                <categoryId>518</categoryId>
+                <description>Диаметр лейки 100 мм, 1 режим: ливень, хром</description>
+                <param name="Основной цвет/тип покрытия">хром</param>
+                <param name="Цвет изделия">Хром/серый</param>
+                <param name="Форма лейки ручного душа">круглая</param>
+                <param name="Кол-во режимов ручного душа">1</param>
+                <param name="Диаметр/Диагональ" unit="мм">100</param>
+                <param name="Способ переключения режимов">нет</param>
+                <param name="Основной материал изделия">пластик</param>
+                <param name="Материал упаковки">картон</param>
+                <param name="Гарантия" unit="мес.">24</param>
+                <param name="Ширина лейки ручного душа" unit="мм">100</param>
+                <param name="Комплект поставки">лейка ручного душа</param>
+                <param name="Страна регистрации бренда">Чехия</param>
+                <param name="Описание">IMPRESE Аквам</param>
+                <param name="Бренд">IMPRESE</param>
+                <param name="Серия"/>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/a3e96ae1887587f8f93129812584a3c7ba0fb1de59f6525f4a92f2920c6c12d30.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/af780f82a34aa6874e49ccd3eb08386734fede2156893a256aaaf84408d848161.jpg
+                </picture>
+            </offer>
+            <offer id="1026617" available="true">
+                <price>17.81</price>
+                <name>Душовий набiр - ручний душ 1 режим, шланг, тримач</name>
+                <categoryId>520</categoryId>
+                <description>Набор душевой - ручной душ 1 режим, шланг, держатель, блистерЛейка диаметр: 100 мм,
+                    поверхность: хром, 1 функция: ливень, шланг гибкий двойное обплетение длина: 150 см, держатель,
+                    поверхность: хром
+                </description>
+                <param name="Форма">свободно</param>
+                <param name="Основной цвет/тип покрытия">хром</param>
+                <param name="Высота" unit="мм">257</param>
+                <param name="Цвет изделия">Хром</param>
+                <param name="Высота (мм)">0</param>
+                <param name="Тип держателя">держатель на стене</param>
+                <param name="Форма лейки ручного душа">круглая</param>
+                <param name="Мыльница">нет</param>
+                <param name="Кол-во режимов ручного душа">1</param>
+                <param name="Диаметр/Диагональ" unit="мм">100</param>
+                <param name="Способ переключения режимов">нет</param>
+                <param name="Цвет диска ручного душа">Хром</param>
+                <param name="Основной материал изделия">нержавеющая сталь, пластик</param>
+                <param name="Материал упаковки">картон</param>
+                <param name="Гарантия" unit="мес.">24</param>
+                <param name="Ширина лейки ручного душа" unit="мм">100</param>
+                <param name="Длина душевого шланга" unit="мм">1 500</param>
+                <param name="Комплект поставки">лейка ручного душа, шланг, держатель</param>
+                <param name="Страна регистрации бренда">Чехия</param>
+                <param name="Описание">IMPRESE Аквам</param>
+                <param name="Бренд">IMPRESE</param>
+                <param name="Серия"/>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/f8b6cc8806ed51e8941e05588f6e9fe9f0e0a8472c5d2f6aeddb070d0a50e9250.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/a60fa8c543bf54ca88fdcf33ca3cbdaefd2cef351629b96724c04cced14c0a2d1.jpg
+                </picture>
+            </offer>
+            <offer id="1026693" available="true">
+                <price>51.26</price>
+                <name>JESENIK смеситель для ванны, хром, 35 мм</name>
+                <categoryId>523</categoryId>
+                <description>JESENIK смеситель для ванны, хром, 35 мм Однорычажный, керамический узел смешивания, расход
+                    воды до 22 л/мин, аэратор, подходит для проточных нагревателей
+                    Модель установленного картриджа Sedal EN- 35 С/D
+                </description>
+                <param name="Комплектация">Нет</param>
+                <param name="Монтаж">Настенный</param>
+                <param name="Тип управления">Однорычажный</param>
+                <param name="Тип переключателя ванна/душ">кнопочный</param>
+                <param name="Поворотный излив">нет</param>
+                <param name="Длина излива" unit="мм">171</param>
+                <param name="Цвет изделия">Хром</param>
+                <param name="Кол-во отверстий">2</param>
+                <param name="Кол-во потребителей">2</param>
+                <param name="Форма накладки">скругленный квадрат</param>
+                <param name="Модель картриджа">Sedal EN-35 С/D</param>
+                <param name="Диаметр картриджа" unit="мм">35</param>
+                <param name="Бренд">IMPRESE</param>
+                <param name="Серия">JESENIK</param>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/a5d4a8ea8ccaa357a478c6f83b4da2aa560501966a29c4d41a5bb9cb8cb105170.jpg
+                </picture>
+                <picture>
+                    https://b2b.antey.com.ua/api_image/849b30a6adaaf94263d3e8172a90694a5c9c6fee0be4053e3aa6d4674fd4fae11.jpg
+                </picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
