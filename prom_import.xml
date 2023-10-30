@@ -42,7 +42,7 @@
             <category id="558" parentId="None">Дозатори для мила</category>
         </categories>
         <offers>
-            <offer id="1013872" available="true">
+            <offer id="113872" available="true">
                 <price>56.47</price>
                 <name>LOTTA змішувач для кухні, високий ніс, сатин, 35 мм</name>
                 <categoryId>523</categoryId>
@@ -86,8 +86,11 @@
                 <picture>
                     https://b2b.antey.com.ua/api_image/9327f502fe5d3d7c6512defad803a9beb286c0ac55e776012801cbbd8da5a6543.jpg
                 </picture>
+                <vendor>Apple</vendor>
+                <vendorCode>0001-01</vendorCode>
+                <model>iphone 4</model>
             </offer>
-            <offer id="1013890" available="true">
+            <offer id="113890" available="true">
                 <price>43.0</price>
                 <name>RALSKO змішувач для біде, хром</name>
                 <categoryId>523</categoryId>
@@ -118,8 +121,11 @@
                 <picture>
                     https://b2b.antey.com.ua/api_image/121f7d9f2c14220c2b75b34fd21e4e6aa7d7832fe984ebaa0d6a312065a4cf711.jpg
                 </picture>
+                <vendor>Apple</vendor>
+                <vendorCode>0001-01</vendorCode>
+                <model>iphone 4</model>
             </offer>
-            <offer id="1026588" available="true">
+            <offer id="126588" available="true">
                 <price>9.64</price>
                 <name>Душ ручний 100 мм, 1 режим</name>
                 <categoryId>518</categoryId>
@@ -145,8 +151,11 @@
                 <picture>
                     https://b2b.antey.com.ua/api_image/af780f82a34aa6874e49ccd3eb08386734fede2156893a256aaaf84408d848161.jpg
                 </picture>
+                <vendor>Apple</vendor>
+                <vendorCode>0001-01</vendorCode>
+                <model>iphone 4</model>
             </offer>
-            <offer id="1026617" available="true">
+            <offer id="126617" available="true">
                 <price>17.81</price>
                 <name>Душовий набiр - ручний душ 1 режим, шланг, тримач</name>
                 <categoryId>520</categoryId>
@@ -182,8 +191,11 @@
                 <picture>
                     https://b2b.antey.com.ua/api_image/a60fa8c543bf54ca88fdcf33ca3cbdaefd2cef351629b96724c04cced14c0a2d1.jpg
                 </picture>
+                <vendor>Apple</vendor>
+                <vendorCode>0001-01</vendorCode>
+                <model>iphone 4</model>
             </offer>
-            <offer id="1026693" available="true">
+            <offer id="126693" available="true">
                 <price>51.26</price>
                 <name>JESENIK смеситель для ванны, хром, 35 мм</name>
                 <categoryId>523</categoryId>
@@ -211,6 +223,9 @@
                 <picture>
                     https://b2b.antey.com.ua/api_image/849b30a6adaaf94263d3e8172a90694a5c9c6fee0be4053e3aa6d4674fd4fae11.jpg
                 </picture>
+                <vendor>Apple</vendor>
+                <vendorCode>0001-01</vendorCode>
+                <model>iphone 4</model>
             </offer>
         </offers>
     </shop>
