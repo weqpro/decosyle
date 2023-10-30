@@ -2,44 +2,44 @@
 <yml_catalog date="2023-10-30 23-50">
     <shop>
         <categories>
-            <category id="566" parentId="None">Тримачі рушників</category>
-            <category id="386" parentId="None">Дзеркала для ванних кімнат</category>
-            <category id="573" parentId="None">Кришки для унітазів</category>
-            <category id="541" parentId="None">Рушникосушки</category>
-            <category id="535" parentId="None">Біде</category>
-            <category id="566" parentId="None">Тримачі для паперу</category>
-            <category id="490" parentId="None">ВАННИ</category>
-            <category id="508" parentId="None">Душові піддони</category>
-            <category id="564" parentId="None">Стакани для ванної кімнати</category>
-            <category id="495" parentId="None">Панелі для ванн</category>
-            <category id="579" parentId="None">Засоби для догляду за сантехнікою</category>
-            <category id="523" parentId="None">ЗМІШУВАЧІ</category>
-            <category id="518" parentId="None">Лійка для душу</category>
-            <category id="555" parentId="None">Відра для сміття</category>
-            <category id="576" parentId="None">Пісуари</category>
-            <category id="581" parentId="None">Аксесуари</category>
-            <category id="553" parentId="None">Аксесуари для ванних кімнат</category>
-            <category id="562" parentId="None">Полиці у ванну</category>
-            <category id="577" parentId="None">Тумби під раковину</category>
-            <category id="583" parentId="None">Інше</category>
-            <category id="584" parentId="None">Донні клапани</category>
-            <category id="559" parentId="None">Йоржики та стійки</category>
-            <category id="548" parentId="None">Сифони для душових піддонів</category>
-            <category id="560" parentId="None">Мильниці</category>
-            <category id="506" parentId="None">Душові кабіни</category>
-            <category id="531" parentId="None">Комплектуючі для змішувачів</category>
-            <category id="520" parentId="None">Лійка для душу+шланг+кріплення</category>
-            <category id="519" parentId="None">Шланги для душу</category>
-            <category id="553" parentId="None">Аксесуари для макіяжу</category>
-            <category id="534" parentId="None">Унітази, бачки</category>
-            <category id="578" parentId="None">Інше</category>
-            <category id="539" parentId="None">ТРАПИ</category>
-            <category id="574" parentId="None">Шафи і пенали для ванних кімнат</category>
-            <category id="547" parentId="None">Сифони для раковин</category>
-            <category id="507" parentId="None">Душові двері та перегородки</category>
-            <category id="480" parentId="None">Умивальники і п'єдестали</category>
-            <category id="582" parentId="None">Інсталяційні системи</category>
-            <category id="558" parentId="None">Дозатори для мила</category>
+            <category id="566" parentId="391">Тримачі рушників</category>
+            <category id="386" parentId="391">Дзеркала для ванних кімнат</category>
+            <category id="573" parentId="391">Кришки для унітазів</category>
+            <category id="541" parentId="391">Рушникосушки</category>
+            <category id="535" parentId="391">Біде</category>
+            <category id="566" parentId="391">Тримачі для паперу</category>
+            <category id="490" parentId="391">ВАННИ</category>
+            <category id="508" parentId="391">Душові піддони</category>
+            <category id="564" parentId="391">Стакани для ванної кімнати</category>
+            <category id="495" parentId="391">Панелі для ванн</category>
+            <category id="579" parentId="391">Засоби для догляду за сантехнікою</category>
+            <category id="523" parentId="391">ЗМІШУВАЧІ</category>
+            <category id="518" parentId="391">Лійка для душу</category>
+            <category id="555" parentId="391">Відра для сміття</category>
+            <category id="576" parentId="391">Пісуари</category>
+            <category id="581" parentId="391">Аксесуари</category>
+            <category id="553" parentId="391">Аксесуари для ванних кімнат</category>
+            <category id="562" parentId="391">Полиці у ванну</category>
+            <category id="577" parentId="391">Тумби під раковину</category>
+            <category id="583" parentId="391">Інше</category>
+            <category id="584" parentId="391">Донні клапани</category>
+            <category id="559" parentId="391">Йоржики та стійки</category>
+            <category id="548" parentId="391">Сифони для душових піддонів</category>
+            <category id="560" parentId="391">Мильниці</category>
+            <category id="506" parentId="391">Душові кабіни</category>
+            <category id="531" parentId="391">Комплектуючі для змішувачів</category>
+            <category id="520" parentId="391">Лійка для душу+шланг+кріплення</category>
+            <category id="519" parentId="391">Шланги для душу</category>
+            <category id="553" parentId="391">Аксесуари для макіяжу</category>
+            <category id="534" parentId="391">Унітази, бачки</category>
+            <category id="578" parentId="391">Інше</category>
+            <category id="539" parentId="391">ТРАПИ</category>
+            <category id="574" parentId="391">Шафи і пенали для ванних кімнат</category>
+            <category id="547" parentId="391">Сифони для раковин</category>
+            <category id="507" parentId="391">Душові двері та перегородки</category>
+            <category id="480" parentId="391">Умивальники і п'єдестали</category>
+            <category id="582" parentId="391">Інсталяційні системи</category>
+            <category id="558" parentId="391">Дозатори для мила</category>
         </categories>
         <offers>
             <offer id="113872" available="true">
