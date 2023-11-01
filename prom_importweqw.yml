@@ -41,9 +41,9 @@
             <category id="507" parentId="None">Душові двері та перегородки</category>
         </categories>
         <offers>
-            <offer id="23872" available="false">
+            <offer id="2382321" available="false">
                 <price>56.47</price>
-                <name>LOTTA змішувач для кухні, високий ніс, сатин, 35 мм 123123123123312</name>
+                <name>фівфівфів123123123123312</name>
                 <categoryId>523</categoryId>
                 <description>Однорычажный смеситель для кухни, высокий нос, сатин, 35 мм; керамический узел смешивания,
                     расход воды до 7 л/мин, аэратор, подходит для проточных нагревателей
@@ -84,65 +84,6 @@
                 </picture>
                 <picture>
                     https://b2b.antey.com.ua/api_image/6916f4726753bab3c0b4615ec6f9d4dc179df2fd90f7c190292305e434fd1c7a3.jpg
-                </picture>
-            </offer>
-            <offer id="23890" available="true">
-                <price>43.0</price>
-                <name>RALSKO змішувач для біде, хром</name>
-                <categoryId>523</categoryId>
-                <description>RALSKO смеситель для биде, хром, 1,2&amp;amp;apos;Крестовые рукоятки, керамический узел
-                    смешивания, расход воды до 7 л/мин, аэратор, подходит для проточных нагревателей
-                </description>
-                <param name="Монтаж">врезной</param>
-                <param name="Тип управления">двухвентильный</param>
-                <param name="Основной цвет/тип покрытия">хром</param>
-                <param name="Длина излива" unit="мм">0</param>
-                <param name="Высота излива" unit="мм">101</param>
-                <param name="Высота смесителя" unit="мм">140</param>
-                <param name="Цвет изделия">Хром</param>
-                <param name="Наличие донного клапана">Нет</param>
-                <param name="Кол-во отверстий">1</param>
-                <param name="Основной материал изделия">латунь</param>
-                <param name="Материал упаковки">картон</param>
-                <param name="Гарантия" unit="мес.">60</param>
-                <param name="Диаметр подсоединения шлангов">G1/2</param>
-                <param name="Комплект поставки">смеситель для биде</param>
-                <param name="Страна регистрации бренда">Чехия</param>
-                <param name="Описание">IMPRESE Аквам</param>
-                <param name="Бренд">IMPRESE</param>
-                <param name="Серия">RALSKO</param>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/d6f9d505f96d366fabeca1c42a64ef5994fd0df98795d7e55aaa314f80b848060.jpg
-                </picture>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/535290ad5806a3331457f1bd058f882ddcc91132d560a0545ff6571a8ed9d5c31.jpg
-                </picture>
-            </offer>
-            <offer id="36588" available="true">
-                <price>9.64</price>
-                <name>Душ ручний 100 мм, 1 режим</name>
-                <categoryId>518</categoryId>
-                <description>Диаметр лейки 100 мм, 1 режим: ливень, хром</description>
-                <param name="Основной цвет/тип покрытия">хром</param>
-                <param name="Цвет изделия">Хром/серый</param>
-                <param name="Форма лейки ручного душа">круглая</param>
-                <param name="Кол-во режимов ручного душа">1</param>
-                <param name="Диаметр/Диагональ" unit="мм">100</param>
-                <param name="Способ переключения режимов">нет</param>
-                <param name="Основной материал изделия">пластик</param>
-                <param name="Материал упаковки">картон</param>
-                <param name="Гарантия" unit="мес.">24</param>
-                <param name="Ширина лейки ручного душа" unit="мм">100</param>
-                <param name="Комплект поставки">лейка ручного душа</param>
-                <param name="Страна регистрации бренда">Чехия</param>
-                <param name="Описание">IMPRESE Аквам</param>
-                <param name="Бренд">IMPRESE</param>
-                <param name="Серия"/>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/9ccbc6b7c5ce233416afaba9c86766bfc4feaa60b110a9024f6e102f9c92005e0.jpg
-                </picture>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/dc65cc3eab41a3f9d1a3e785880dd579e436d983cdfbfadf77c944caee4a22b51.jpg
                 </picture>
             </offer>
         </offers>
