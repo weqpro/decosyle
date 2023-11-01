@@ -2,51 +2,50 @@
 <yml_catalog date="2023-10-30 23-50">
     <shop>
         <categories>
-            <category id="566" parentId="391">Тримачі рушників</category>
-            <category id="386" parentId="391">Дзеркала для ванних кімнат</category>
-            <category id="573" parentId="391">Кришки для унітазів</category>
-            <category id="541" parentId="391">Рушникосушки</category>
-            <category id="535" parentId="391">Біде</category>
-            <category id="566" parentId="391">Тримачі для паперу</category>
-            <category id="490" parentId="391">ВАННИ</category>
-            <category id="508" parentId="391">Душові піддони</category>
-            <category id="564" parentId="391">Стакани для ванної кімнати</category>
-            <category id="495" parentId="391">Панелі для ванн</category>
-            <category id="579" parentId="391">Засоби для догляду за сантехнікою</category>
-            <category id="523" parentId="391">ЗМІШУВАЧІ</category>
-            <category id="518" parentId="391">Лійка для душу</category>
-            <category id="555" parentId="391">Відра для сміття</category>
-            <category id="576" parentId="391">Пісуари</category>
-            <category id="581" parentId="391">Аксесуари</category>
-            <category id="553" parentId="391">Аксесуари для ванних кімнат</category>
-            <category id="562" parentId="391">Полиці у ванну</category>
-            <category id="577" parentId="391">Тумби під раковину</category>
-            <category id="583" parentId="391">Інше</category>
-            <category id="584" parentId="391">Донні клапани</category>
-            <category id="559" parentId="391">Йоржики та стійки</category>
-            <category id="548" parentId="391">Сифони для душових піддонів</category>
-            <category id="560" parentId="391">Мильниці</category>
-            <category id="506" parentId="391">Душові кабіни</category>
-            <category id="531" parentId="391">Комплектуючі для змішувачів</category>
-            <category id="520" parentId="391">Лійка для душу+шланг+кріплення</category>
-            <category id="519" parentId="391">Шланги для душу</category>
-            <category id="553" parentId="391">Аксесуари для макіяжу</category>
-            <category id="534" parentId="391">Унітази, бачки</category>
-            <category id="578" parentId="391">Інше</category>
-            <category id="539" parentId="391">ТРАПИ</category>
-            <category id="574" parentId="391">Шафи і пенали для ванних кімнат</category>
-            <category id="547" parentId="391">Сифони для раковин</category>
-            <category id="507" parentId="391">Душові двері та перегородки</category>
-            <category id="480" parentId="391">Умивальники і п'єдестали</category>
-            <category id="582" parentId="391">Інсталяційні системи</category>
-            <category id="558" parentId="391">Дозатори для мила</category>
+            <category id="548" parentId="None">Сифони для душових піддонів</category>
+            <category id="577" parentId="None">Тумби під раковину</category>
+            <category id="559" parentId="None">Йоржики та стійки</category>
+            <category id="566" parentId="None">Тримачі рушників</category>
+            <category id="553" parentId="None">Аксесуари для макіяжу</category>
+            <category id="564" parentId="None">Стакани для ванної кімнати</category>
+            <category id="583" parentId="None">Інше</category>
+            <category id="520" parentId="None">Лійка для душу+шланг+кріплення</category>
+            <category id="386" parentId="None">Дзеркала для ванних кімнат</category>
+            <category id="576" parentId="None">Пісуари</category>
+            <category id="480" parentId="None">Умивальники і п'єдестали</category>
+            <category id="519" parentId="None">Шланги для душу</category>
+            <category id="531" parentId="None">Комплектуючі для змішувачів</category>
+            <category id="574" parentId="None">Шафи і пенали для ванних кімнат</category>
+            <category id="523" parentId="None">ЗМІШУВАЧІ</category>
+            <category id="495" parentId="None">Панелі для ванн</category>
+            <category id="539" parentId="None">ТРАПИ</category>
+            <category id="555" parentId="None">Відра для сміття</category>
+            <category id="578" parentId="None">Інше</category>
+            <category id="584" parentId="None">Донні клапани</category>
+            <category id="490" parentId="None">ВАННИ</category>
+            <category id="534" parentId="None">Унітази, бачки</category>
+            <category id="518" parentId="None">Лійка для душу</category>
+            <category id="579" parentId="None">Засоби для догляду за сантехнікою</category>
+            <category id="560" parentId="None">Мильниці</category>
+            <category id="573" parentId="None">Кришки для унітазів</category>
+            <category id="553" parentId="None">Аксесуари для ванних кімнат</category>
+            <category id="558" parentId="None">Дозатори для мила</category>
+            <category id="581" parentId="None">Аксесуари</category>
+            <category id="547" parentId="None">Сифони для раковин</category>
+            <category id="562" parentId="None">Полиці у ванну</category>
+            <category id="566" parentId="None">Тримачі для паперу</category>
+            <category id="508" parentId="None">Душові піддони</category>
+            <category id="506" parentId="None">Душові кабіни</category>
+            <category id="535" parentId="None">Біде</category>
+            <category id="582" parentId="None">Інсталяційні системи</category>
+            <category id="507" parentId="None">Душові двері та перегородки</category>
         </categories>
         <offers>
-            <offer id="113872" available="true">
+            <offer id="23872" available="false">
                 <price>56.47</price>
-                <name>LOTTA змішувач для кухні, високий ніс, сатин, 35 мм</name>
+                <name>LOTTA змішувач для кухні, високий ніс, сатин, 35 мм 123123123123312</name>
                 <categoryId>523</categoryId>
-                <description>Однорычажный смеситель для кухни, высокий нос, сатин, 35 мм; керамический узел смешивания,
+                <description>Однорычажный смеситель для кухни, высокий нос, сатин, 35 мм; керамический узел смешивания,
                     расход воды до 7 л/мин, аэратор, подходит для проточных нагревателей
                     Модель установленного картриджа Sedal EN- 35 S/D AZ
                 </description>
@@ -75,19 +74,19 @@
                 <param name="Бренд">IMPRESE</param>
                 <param name="Серия">LOTTA</param>
                 <picture>
-                    https://raw.githubusercontent.com/weqpro/decosyle/cc888a0ad1c16356ee343a064423b85a17a27eb3/%D0%93%20%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B0%20%D0%B7%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%BC.jpg
+                    https://b2b.antey.com.ua/api_image/db12e02c05c67e89724b1b55fdc8fe76eff62d4b9f77cedc66476ca4e4ed73d00.jpg
                 </picture>
                 <picture>
-                    https://raw.githubusercontent.com/weqpro/decosyle/cc888a0ad1c16356ee343a064423b85a17a27eb3/%D0%93%20%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B0%20%D0%B7%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%BC.jpg
+                    https://b2b.antey.com.ua/api_image/849d1358ad0163d66745b974aff5a27645ea0862b521247d718cfa7bae68b0881.jpg
                 </picture>
                 <picture>
-                    https://raw.githubusercontent.com/weqpro/decosyle/cc888a0ad1c16356ee343a064423b85a17a27eb3/%D0%93%20%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B0%20%D0%B7%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%BC.jpg
+                    https://b2b.antey.com.ua/api_image/371ef15d8fac6a8bf97fb37b26d7dd25450b58b2f546a0f85d4b751aa34650c92.jpg
                 </picture>
                 <picture>
-                    https://raw.githubusercontent.com/weqpro/decosyle/cc888a0ad1c16356ee343a064423b85a17a27eb3/%D0%93%20%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B0%20%D0%B7%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%BC.jpg
+                    https://b2b.antey.com.ua/api_image/6916f4726753bab3c0b4615ec6f9d4dc179df2fd90f7c190292305e434fd1c7a3.jpg
                 </picture>
             </offer>
-            <offer id="113890" available="true">
+            <offer id="23890" available="true">
                 <price>43.0</price>
                 <name>RALSKO змішувач для біде, хром</name>
                 <categoryId>523</categoryId>
@@ -113,13 +112,13 @@
                 <param name="Бренд">IMPRESE</param>
                 <param name="Серия">RALSKO</param>
                 <picture>
-                    https://b2b.antey.com.ua/api_image/6607940905ef9fe7071189814d4a3dc4be37af8c51ee68848d4e5fa4c416004a0.jpg
+                    https://b2b.antey.com.ua/api_image/d6f9d505f96d366fabeca1c42a64ef5994fd0df98795d7e55aaa314f80b848060.jpg
                 </picture>
                 <picture>
-                    https://b2b.antey.com.ua/api_image/121f7d9f2c14220c2b75b34fd21e4e6aa7d7832fe984ebaa0d6a312065a4cf711.jpg
+                    https://b2b.antey.com.ua/api_image/535290ad5806a3331457f1bd058f882ddcc91132d560a0545ff6571a8ed9d5c31.jpg
                 </picture>
             </offer>
-            <offer id="126588" available="true">
+            <offer id="36588" available="true">
                 <price>9.64</price>
                 <name>Душ ручний 100 мм, 1 режим</name>
                 <categoryId>518</categoryId>
@@ -140,76 +139,10 @@
                 <param name="Бренд">IMPRESE</param>
                 <param name="Серия"/>
                 <picture>
-                    https://b2b.antey.com.ua/api_image/a3e96ae1887587f8f93129812584a3c7ba0fb1de59f6525f4a92f2920c6c12d30.jpg
+                    https://b2b.antey.com.ua/api_image/9ccbc6b7c5ce233416afaba9c86766bfc4feaa60b110a9024f6e102f9c92005e0.jpg
                 </picture>
                 <picture>
-                    https://b2b.antey.com.ua/api_image/af780f82a34aa6874e49ccd3eb08386734fede2156893a256aaaf84408d848161.jpg
-                </picture>
-            </offer>
-            <offer id="126617" available="true">
-                <price>17.81</price>
-                <name>Душовий набiр - ручний душ 1 режим, шланг, тримач</name>
-                <categoryId>520</categoryId>
-                <description>Набор душевой - ручной душ 1 режим, шланг, держатель, блистерЛейка диаметр: 100 мм,
-                    поверхность: хром, 1 функция: ливень, шланг гибкий двойное обплетение длина: 150 см, держатель,
-                    поверхность: хром
-                </description>
-                <param name="Форма">свободно</param>
-                <param name="Основной цвет/тип покрытия">хром</param>
-                <param name="Высота" unit="мм">257</param>
-                <param name="Цвет изделия">Хром</param>
-                <param name="Высота (мм)">0</param>
-                <param name="Тип держателя">держатель на стене</param>
-                <param name="Форма лейки ручного душа">круглая</param>
-                <param name="Мыльница">нет</param>
-                <param name="Кол-во режимов ручного душа">1</param>
-                <param name="Диаметр/Диагональ" unit="мм">100</param>
-                <param name="Способ переключения режимов">нет</param>
-                <param name="Цвет диска ручного душа">Хром</param>
-                <param name="Основной материал изделия">нержавеющая сталь, пластик</param>
-                <param name="Материал упаковки">картон</param>
-                <param name="Гарантия" unit="мес.">24</param>
-                <param name="Ширина лейки ручного душа" unit="мм">100</param>
-                <param name="Длина душевого шланга" unit="мм">1 500</param>
-                <param name="Комплект поставки">лейка ручного душа, шланг, держатель</param>
-                <param name="Страна регистрации бренда">Чехия</param>
-                <param name="Описание">IMPRESE Аквам</param>
-                <param name="Бренд">IMPRESE</param>
-                <param name="Серия"/>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/f8b6cc8806ed51e8941e05588f6e9fe9f0e0a8472c5d2f6aeddb070d0a50e9250.jpg
-                </picture>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/a60fa8c543bf54ca88fdcf33ca3cbdaefd2cef351629b96724c04cced14c0a2d1.jpg
-                </picture>
-            </offer>
-            <offer id="126693" available="true">
-                <price>51.26</price>
-                <name>JESENIK смеситель для ванны, хром, 35 мм</name>
-                <categoryId>523</categoryId>
-                <description>JESENIK смеситель для ванны, хром, 35 мм Однорычажный, керамический узел смешивания, расход
-                    воды до 22 л/мин, аэратор, подходит для проточных нагревателей
-                    Модель установленного картриджа Sedal EN- 35 С/D
-                </description>
-                <param name="Комплектация">Нет</param>
-                <param name="Монтаж">Настенный</param>
-                <param name="Тип управления">Однорычажный</param>
-                <param name="Тип переключателя ванна/душ">кнопочный</param>
-                <param name="Поворотный излив">нет</param>
-                <param name="Длина излива" unit="мм">171</param>
-                <param name="Цвет изделия">Хром</param>
-                <param name="Кол-во отверстий">2</param>
-                <param name="Кол-во потребителей">2</param>
-                <param name="Форма накладки">скругленный квадрат</param>
-                <param name="Модель картриджа">Sedal EN-35 С/D</param>
-                <param name="Диаметр картриджа" unit="мм">35</param>
-                <param name="Бренд">IMPRESE</param>
-                <param name="Серия">JESENIK</param>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/a5d4a8ea8ccaa357a478c6f83b4da2aa560501966a29c4d41a5bb9cb8cb105170.jpg
-                </picture>
-                <picture>
-                    https://b2b.antey.com.ua/api_image/849b30a6adaaf94263d3e8172a90694a5c9c6fee0be4053e3aa6d4674fd4fae11.jpg
+                    https://b2b.antey.com.ua/api_image/dc65cc3eab41a3f9d1a3e785880dd579e436d983cdfbfadf77c944caee4a22b51.jpg
                 </picture>
             </offer>
         </offers>
