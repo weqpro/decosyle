@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<shop>
+    <categories>
+        <category id="560">Мильниці</category>
+    </categories>
+    <offers>
+        <offer id="123123321" available="12" in_stock="true">
+            <name>aaaaaaaaaaavvvvfg</name>
+            <categoryId>560</categoryId>
+            <price>13311331</price>
+
+            <param name="asd1" unit="m^2">12123123123</param>
+        </offer>
+    </offers>
+</shop>
