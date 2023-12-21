@@ -1,3 +1,52 @@
 <asd>
     <categoryId>ЄЄЄЄЄЄБББАААААААААААААААТЬЬЬЬЬЬЬЬ</categoryId>
+    <offers>
+        <offer id="SD00023727" available="true">
+            <price>252</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>361</categoryId>
+            <picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/7/17630.jpg</picture>
+            <picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/7/17630/17630_1.jpg</picture>
+            <picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/7/17630/17630_2.jpg</picture>
+            <picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/7/17630.jpg</picture>
+            <picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/7/17630/17630_1.jpg</picture>
+            <picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/7/17630/17630_2.jpg</picture>
+            <name>Лійка для ручного душу Qtap Rucni 120 мм округла QT01L Chrome</name>
+            <model>QT01L</model>
+            <quantity_in_stock>99</quantity_in_stock>
+            <vendor>Qtap</vendor>
+            <vendorCode>SD00023727</vendorCode>
+            <description>Лійка для ручного душу Qtap 01 виготовлена з якісного ABS пластику, який не чутливий до
+                гідроударів і перепадів температур та має глянцеве хромоване покриття, яке не облазить від довгого
+                щоденного використання. Для підключення до душового шланга є підведення з зовнішньою різьбою, яке
+                сумісне з усіма шлангами для душа. Завдяки лаконічному сучасному дизайну виріб доповнить будь-який
+                інтер‘єр.
+            </description>
+            <param name="Артикул">QT01L</param>
+            <param name="Бренд">Qtap</param>
+            <param name="Вага брутто, кг">0,28</param>
+            <param name="Вага нетто, кг">0,23</param>
+            <param name="Габарити виробу (ВхШхГ), мм">260х120х50</param>
+            <param name="Габарити упаковки, мм">50х130х270</param>
+            <param name="Гарантія">12 місяців</param>
+            <param name="Додаткові характеристики">Діаметр підключення - 1/2".</param>
+            <param name="Діаметр лійки, мм">120</param>
+            <param name="Зверніть увагу">Нами докладено всіх зусиль для подання точної та правдивої інформації в описі
+                товару. Проте джерелом інформації є виробник. Він залишає за собою право вносити зміни до конструкції
+                виробів та комплектації, які не погіршують якість, без попереднього повідомлення. Тому граничні
+                відхилення від розмірів можуть змінюватись у межах ± 2%.
+            </param>
+            <param name="Колір">Хром</param>
+            <param name="Комплектація">Лійка для ручного душу</param>
+            <param name="Країна - виробник">Китай</param>
+            <param name="Країна реєстраціїї бренду">Чехія</param>
+            <param name="Кількість вантажних місць">1</param>
+            <param name="Кількість режимів перемикання лійки">5</param>
+            <param name="Матеріал">ABS пластик</param>
+            <param name="Модель">01</param>
+            <param name="Призначення">Для ручного душу</param>
+            <param name="Тип виробу">Лійка</param>
+            <param name="Форма лійки">Кругла</param>
+        </offer>
+    </offers>
 </asd>
