@@ -1,0 +1,152 @@
+<yml_catalog date="2024-01-07 21:37">
+	<shop>
+		<currencies>
+			<currency id="USD" rate="39.5" />
+			<currency id="EUR" rate="42.8" />
+			<currency id="UAH" rate="1" />
+		</currencies>
+		<categories>
+			<category id="48">Кераміка</category>
+			<category id="480" parentId="48">Дитяча сантехніка</category>
+			<category id="533" parentId="480">Раковини</category>
+			<category id="534" parentId="480">Унітази</category>
+			<category id="576" parentId="480">Пісуари</category>
+			<category id="572" parentId="48">Комплектуючі для унітазів</category>
+			<category id="534" parentId="48">Унітази</category>
+			<category id="468" parentId="76">Чаши Генуя</category>
+			<category id="534" parentId="76">Унітази</category>
+			<category id="534" parentId="76">Унітази</category>
+			<category id="572" parentId="76">Комплектуючі для унітазів</category>
+			<category id="582" parentId="76">Інсталяційні системи</category>
+			<category id="480" parentId="48">Умивальники</category>
+			<category id="535" parentId="48">Біде</category>
+			<category id="576" parentId="48">Пісуари</category>
+			<category id="52">Змішувачі</category>
+			<category id="529" parentId="52">Змішувачі прихованого монтажу</category>
+			<category id="531" parentId="52">Комплектуючі для змішувачів</category>
+			<category id="633" parentId="97">Комплектуючі для душових систем</category>
+			<category id="530" parentId="52">Змішувачі для кухні</category>
+			<category id="525" parentId="52">Змішувачі для біде</category>
+			<category id="527" parentId="52">Змішувачі для душу</category>
+			<category id="524" parentId="52">Змішувачі для раковини</category>
+			<category id="526" parentId="52">Змішувачі для ванни</category>
+			<category id="531" parentId="52">Комплектуючі для змішувачів</category>
+			<category id="531" parentId="369">Комплектуючі для змішувачів</category>
+			<category id="531" parentId="369">Комплектуючі для змішувачів</category>
+			<category id="531" parentId="369">Комплектуючі для змішувачів</category>
+			<category id="531" parentId="369">Комплектуючі для змішувачів</category>
+			<category id="93">Аксесуари</category>
+			<category id="541" parentId="93">Сушарки</category>
+			<category id="555" parentId="412">Відра для сміття</category>
+			<category id="553" parentId="93">Аксесуари для ванної кімнати</category>
+			<category id="560" parentId="416">Мильниці</category>
+			<category id="559" parentId="416">Йоржики та стійки</category>
+			<category id="563" parentId="416">Поручні</category>
+			<category id="558" parentId="416">Дозатори рідкого мила</category>
+			<category id="564" parentId="416">Стакани для ванної кімнати</category>
+			<category id="562" parentId="416">Полиці у ванну</category>
+			<category id="556" parentId="416">Гачки для ванної кімнати</category>
+			<category id="566" parentId="416">Тримачі рушників</category>
+			<category id="568" parentId="416">Тримачі туалетного паперу</category>
+			<category id="557" parentId="416">Дзеркала косметичні</category>
+			<category id="537" parentId="416">Сидіння для унітазу</category>
+			<category id="553" parentId="93">Аксесуари для ванної кімнати</category>
+			<category id="558" parentId="421">Дозатори для мила</category>
+			<category id="541" parentId="421">Сушарки</category>
+			<category id="566" parentId="421">Тримачі рушників</category>
+			<category id="541" parentId="421">Сушарки</category>
+			<category id="558" parentId="421">Дозатори для мила</category>
+			<category id="541">Сушарки</category>
+			<category id="541" parentId="131">Сушарки</category>
+			<category id="133">Душова програма</category>
+			<category id="521" parentId="133">Кронштейн</category>
+			<category id="519" parentId="133">Шланги для душу</category>
+			<category id="594" parentId="133">Душові набори</category>
+			<category id="518" parentId="133">Лійки для душу</category>
+			<category id="594" parentId="133">Душові набори</category>
+			<category id="514" parentId="133">Верхній душ</category>
+			<category id="515" parentId="133">Гігієнічний душ</category>
+			<category id="594" parentId="379">Душові набори</category>
+			<category id="518" parentId="379">Лійки для душу</category>
+			<category id="134">Мийки</category>
+			<category id="538" parentId="134">Мийки кухонні</category>
+			<category id="538" parentId="134">Мийки кухонні</category>
+			<category id="187">Інсталяції</category>
+			<category id="582" parentId="187">Інсталяційні системи</category>
+			<category id="582" parentId="187">Інсталяційні системи</category>
+			<category id="582" parentId="187">Інсталяційні системи</category>
+			<category id="582" parentId="187">Інсталяційні системи</category>
+			<category id="295">Сифони і трапи</category>
+			<category id="546" parentId="295">Сифони для ванн</category>
+			<category id="547" parentId="427">Сифони для раковин</category>
+			<category id="478" parentId="295">Донні клапани</category>
+			<category id="539" parentId="295">Трапи</category>
+			<category id="368">Ванни, душові кабіни, бокси</category>
+			<category id="508" parentId="368">Душові піддони</category>
+			<category id="508" parentId="481">Душові піддони</category>
+			<category id="512" parentId="368">Аксесуари для піддонів</category>
+			<category id="512" parentId="449">Аксесуари для піддонів</category>
+			<category id="512" parentId="449">Аксесуари для піддонів</category>
+			<category id="512" parentId="449">Аксесуари для піддонів</category>
+			<category id="506" parentId="449">Душові кабіни та стінки</category>
+			<category id="507" parentId="368">Душові двері та перегородки</category>
+			<category id="507" parentId="368">Душові двері та перегородки</category>
+			<category id="506" parentId="368">Душові кабіни та стінки</category>
+			<category id="490" parentId="368">Ванни</category>
+			<category id="540" parentId="422">Шторки для ванни та душу</category>
+			<category id="384">Електричні сушарки</category>
+			<category id="541" parentId="384">Сушарки</category>
+			<category id="398">Меблі для ванної кімнати</category>
+			<category id="574" parentId="398">Шафи і пенали для ванних кімнат</category>
+			<category id="574" parentId="398">Шафи і пенали для ванних кімнат</category>
+			<category id="562" parentId="398">Полиці у ванну</category>
+			<category id="577" parentId="398">Тумби під раковину</category>
+			<category id="574" parentId="398">Шафи і пенали для ванних кімнат</category>
+			<category id="574" parentId="398">Шафи і пенали для ванних кімнат</category>
+			<category id="386" parentId="398">Дзеркала</category>
+			<category id="520">Готові рішення</category>
+			<category id="506" parentId="520">Душові кабіни та стінки</category>
+		</categories>
+		<delivery-options>
+			<option cost="0" days="1-3" />
+		</delivery-options>
+		<offers>
+			<offer id="SD00023036" available="true">
+				<price>1762</price>
+				<currencyId>UAH</currencyId>
+				<categoryId>594</categoryId>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_1.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_2.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_3.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_4.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_5.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_1.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_2.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_3.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_4.jpg</picture>
+				<picture>https://isw.b2b-sandi.com.ua/imagecache/large/1/6/16939/16939_5.jpg</picture>
+				<name>Душова стійка універсальна Qtap Plava на два споживача 1015 мм прямокутна QT1001CRM Chrome</name>
+				<model>QT1001CRM</model>
+				<quantity_in_stock>80</quantity_in_stock>
+				<vendor>Qtap</vendor>
+				<vendorCode>SD00023036</vendorCode>
+				<description>Душова стійка Qtap CRM 1001 забезпечить максимально комфортний прийом душу. Вона складається з фіксованого верхнього та гнучкого ручного душів. Тривалий термін служби забезпечують довговічна, зносостійка латунь, яка не підпадає під вплив іржі та міцний пластик, з яких виготовлено виріб. Дана стійка може бути змонтована і підімкнена до вже наявного змішувача. </description>
+				<param name="Бренд">Qtap</param>
+				<param name="Вага нетто, кг">1,75</param>
+				<param name="Висота душової стойки, мм">1015</param>
+				<param name="Габарити упаковки 1, мм">130х1080х355</param>
+				<param name="Довжина кронштейна для верхнього душу, мм">345</param>
+				<param name="Зверніть увагу">Нами докладено всіх зусиль для подання точної та правдивої інформації в описі товару. Проте джерелом інформації є виробник. Він залишає за собою право вносити зміни до конструкції виробів та комплектації, які не погіршують якість, без попереднього повідомлення. Тому граничні відхилення від розмірів можуть змінюватись у межах ± 2%.</param>
+				<param name="Комплектація">Кронштейн для верхнього душу, лійка для верхнього душу, кронштейн для ручного душу, лійка для ручного душу, душовий шланг, душова стійка, шланг підмикання, кріпильні деталі.</param>
+				<param name="Країна-виробник">Чехія</param>
+				<param name="Кількість режимів перемикання лійки">Ручний душ: 1. Верхній душ: 1</param>
+				<param name="Матеріал">Латунь / ABS пластик</param>
+				<param name="Поверхня">Глянцева</param>
+				<param name="Серія">Plava</param>
+				<param name="Форма лейки">Ручний душ: прямокутна. Верхній душ: квадратна</param>
+			</offer>
+        </offers>
+    </shop>
+</yml_catalog>
